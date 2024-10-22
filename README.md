@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SamuelMelchizedek1234
-- 👀 I’m interested in Data analyst and cybersecurity (IT audit)
-- 🌱 I’m currently learning IT audit 
+- 👀 I’m interested in Data analyst and cybersecurity (IT audit).
 - 💞️ I’m looking to collaborate on IT audit 
 - 📫 How to reach me www.linkedin.com/in/samuel-melchizedek-osei-194555262
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...He/him 
 - ⚡ Fun fact: ...
 
 <!---
